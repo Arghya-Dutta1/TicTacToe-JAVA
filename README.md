@@ -21,6 +21,7 @@ This is a CLI version of Tic Tac Toe game implemented using Java. In this versio
 4 | 5 | 6
 ---------
 7 | 8 | 9
+---------
 
 # Technologies Used
 1. Java: The game is implemented using core Java.
