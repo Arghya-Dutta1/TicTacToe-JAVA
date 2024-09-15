@@ -27,6 +27,7 @@ public class TicTacToe {
             Thread.sleep(1000);
 
             computerTurn(board);
+            Thread.sleep(500);
             if (isGameFinished(board)) break;
             printBoard(board);
         }
